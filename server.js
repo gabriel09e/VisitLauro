@@ -105,7 +105,7 @@ const servidorLauro = http.createServer((request, response) => {
             <h1>Transporte e Mobilidade</h1>
             <p>Se você quer a outros locais rapidamente na nossa cidade, conheça o Terminal Aeroporto onde você poderá viajar de ônibus.</p>
             <br>
-            <h1>Trâsito</h1>
+            <h1>Trânsito</h1>
             <p>O fluxo de veículos na Estrada do Coco e na divisa com a capital pode ser intenso em horários de pico e fins de semana.</p>
             <br>
             <h1>Cuidado nas Praias!</h1>
